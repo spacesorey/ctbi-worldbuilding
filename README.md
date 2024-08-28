@@ -11,7 +11,7 @@ Navigation
 7. Biology
 8. Chapter Layout (with links to drafts)
 
-<img src="cat.jpg" alt="x" width="50%">
+<img src="cat.jpg" alt="x" width="50%" style="float:right;">
 
 <div style="float:right;margin-left:10px;width:100px;">
 
