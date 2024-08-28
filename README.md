@@ -11,7 +11,7 @@ Navigation
 7. Biology
 8. Chapter Layout (with links to drafts)
 
-![Cat Photo](cat.jpg)
+<img src="cat.jpg" alt="x" width="50%">
 Lorem ipsum odor amet, consectetuer adipiscing elit. Sollicitudin erat bibendum duis, fusce ridiculus mattis. Nam a curae imperdiet sociosqu nec. Dui at taciti imperdiet fringilla vulputate eu mauris. Urna risus consequat justo aliquam leo. Ornare mollis finibus quis scelerisque magnis magna platea; tellus accumsan. Curabitur varius laoreet taciti; mi senectus sed lobortis penatibus libero. Eu inceptos a laoreet curabitur mi. Scelerisque eros facilisi fusce quisque pellentesque semper vestibulum.
 
 Mauris diam ullamcorper ac volutpat morbi. Nec hac posuere tempus est pulvinar duis id imperdiet senectus. Fames venenatis lacus nostra congue ullamcorper ante, mauris et. Sed ridiculus tellus ridiculus eget et. Quam himenaeos dictumst cubilia conubia habitant conubia. Sed elit nec senectus vel tincidunt per. Aptent nisi class parturient mollis proin magnis.
