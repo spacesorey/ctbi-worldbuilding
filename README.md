@@ -13,7 +13,7 @@ Navigation
 
 <img src="cat.jpg" alt="x" width="50%">
 
-<div style="float:right;">
+<div style="float:right;margin-left:10px;width:100px">
 
 <p>Lorem ipsum odor amet, consectetuer adipiscing elit. Sollicitudin erat bibendum duis, fusce ridiculus mattis. Nam a curae imperdiet sociosqu nec. Dui at taciti imperdiet fringilla vulputate eu mauris. Urna risus consequat justo aliquam leo. Ornare mollis finibus quis scelerisque magnis magna platea; tellus accumsan. Curabitur varius laoreet taciti; mi senectus sed lobortis penatibus libero. Eu inceptos a laoreet curabitur mi. Scelerisque eros facilisi fusce quisque pellentesque semper vestibulum.
 
