@@ -44,79 +44,69 @@ Worldbuilding Sheets
 - Are there multiple languages or a common tongue?
 - Are there unique forms of communication?
 
-## Calendar and time:
-
-
+## Calendar & Time
 - How is time measured in this world?
+- Do each race/country have a certain calendar that they follow or is there a common one?
 - Are there any special celestial bodies or events?
 
-
-## Art and culture:
-
-
+## Art & Culture
 - What forms of art are prevalent?
+- Do certain countries have different emphasises on the importance of art?
+- Are some countries known more for their art or which art they foster?
 - Are there unique cultural traditions or festivals?
 
-
-## Education and knowledge:
-
-
+## Education & Knowledge
 - How is knowledge preserved and passed down?
 - Are there institutions of learning?
+- What is the extent of learning in each country?
+- Do certain social systems, such as government and societal norms, encourage certain disparities in their education structures?
+- Is education important in most countries? How do they hold each of these in regard?
 
-
-## Justice system:
-
-
+## Justice System
 - How are laws enforced?
-= What constitutes crime and how is it punished?
+- What constitutes crime and how is it punished?
+- Are some things crimes in some countries and not in another?
+- Are there some taboos that aren't allowed in any countries?
 
-
-## Transportation:
-
-
+## Transportation
 - How do people and goods move around?
 - Are there any magical means of travel?
+- Are some forms of transportation more popular in other areas than a standard form of transportation?
 
-
-## Food and agriculture:
-
-
+## Food & Agriculture:
 - What are the staple foods in different regions?
+- Are there distinct racial food categories?
+- Are some foods poisonous to some people and not other's?
 - Are there any unique culinary traditions?
 
-##Medicine and healthcare:
-
-
+## Medicine & Healthcare
 - How are illnesses treated?
 - Does magic play a role in healing?
+- How far has the medical field gotten? Are some places more advanced than other's?
 
-
-##Family structures:
-
-
+## Family Structures
 - What constitutes a family unit?
+- What is considered family legally?
 - Are there unique marriage or inheritance customs?
 
-
-##Entertainment and recreation:
-
-
+## Entertainment & Recreation
 - What games or sports are popular?
 - Are there any prominent forms of performance art?
+- What does each country have to do for fun?
+- Are there countries entertainment is prioritized?
 
-
-##Warfare and defense:
-
+## Warfare & defense
 - How are conflicts typically resolved?
 - What types of weapons or combat styles exist?
+- How has combat changed over the years?
+- What kind of tensions are present in the world?
 
-
-##Architecture:
+## Architecture
 - What are common building materials and styles?
 - Are there any iconic structures or ruins?
+- Are certain types of architecture more likely in some places than others?
 
-
-##Climate and weather:
+## Climate & Weather
 - Are there any extreme or magical weather phenomena?
 - How do seasons affect life in different regions?
+- What constitutes seasons in each region or country?
