@@ -4,6 +4,9 @@ Worldbuilding Sheets
 - what unique landscapes or natural features exist?
 - How does the environment influence the culture of each country?
 - How does the environment influence the structures of societies in this world?
+- How are continents laid out?
+- How are individual countries laid out?
+- How much land is temperate, equatorial or polar?
 
 ## Magic System
 - How does magic work in this world?
@@ -14,6 +17,11 @@ Worldbuilding Sheets
 ## Races & Creatures
 - What intelligent species inhabit the world?
 - Are there unique flora and fauna? Where do they live?
+- Are there specific behaviors that certain creatures exhibit?
+- Do races have different behaviors based on their biology?
+- What are the categories of the races and the creatures that inhabit the planet?
+- Did the people evolve or come from somewhere else?
+- What is the relationship between the different species?
 
 ## History & Lore
 - What are some major historical world events?
@@ -48,6 +56,8 @@ Worldbuilding Sheets
 - How is time measured in this world?
 - Do each race/country have a certain calendar that they follow or is there a common one?
 - Are there any special celestial bodies or events?
+- What does the sky look like during the day and the night?
+- Are there multiple suns and moons?
 
 ## Art & Culture
 - What forms of art are prevalent?
@@ -110,3 +120,6 @@ Worldbuilding Sheets
 - Are there any extreme or magical weather phenomena?
 - How do seasons affect life in different regions?
 - What constitutes seasons in each region or country?
+- How long are the seasons?
+- What are each countries climates like?
+- Is the climate consisitent or changeable?
